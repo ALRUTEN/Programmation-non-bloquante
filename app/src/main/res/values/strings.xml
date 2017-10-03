@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Lift Simulator</string>
     <string name="floor_count">Etage 0!</string>
-    <string name="button">7</string>
+    <string name="button1">7</string>
     <string name="button2">8</string>
     <string name="button3">9</string>
     <string name="button4">4</string>
